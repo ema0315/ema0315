@@ -1,0 +1,6 @@
+
+# Environment / secrets (prevent committing local env that can break prod)
+.env
+.env.*
+.env*.local
+.envrc.local
